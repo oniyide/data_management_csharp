@@ -14,4 +14,7 @@ First, Previous, Next, Last customer record traversal
 Add/Edit/Delete customer information
 List View and Detail View 
 
+#Login view
+![alt text](https://raw.githubusercontent.com/oniyide/data_management_csharp/master/1.PNG)
+
 
